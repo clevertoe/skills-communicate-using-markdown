@@ -4,3 +4,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [x] Create task list with checked box
+- [ ] Decide on concept for flipper Zero Demo
+- [ ] Find resources to create concept
+- [ ] Create action plan to enable concept
+- [ ] Do the work
+- [ ] Don't fight!!!
